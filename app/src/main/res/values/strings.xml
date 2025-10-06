@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="happy_birthday_world">Happy Birthday</string>
+    <string name="signature_text">Miroslav</string>
+    <string name="full_name">Shvarev Miroslav</string>
+    <string name="number">+7(924)280-66-18</string>
+    <string name="email">miroslavsvarev@gmail.com</string>
+    <string name="socialmediahandle">t.me/mir</string>
+    <string name="title">Student</string>
+</resources>
